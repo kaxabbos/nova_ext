@@ -1,2 +1,14 @@
-# Project exclude paths
-/target/
+.idea
+target
+src/main/resources/img/*
+!src/main/resources/img/wall.jpg
+!src/main/resources/img/strategy.jpg
+!src/main/resources/img/simulator.jpg
+!src/main/resources/img/shooter.jpg
+!src/main/resources/img/action.jpg
+!src/main/resources/img/game.jpg
+!src/main/resources/img/games_icon.png
+!src/main/resources/img/mmo.jpg
+!src/main/resources/img/mmorpg.jpg
+!src/main/resources/img/nova_logo.png
+!src/main/resources/img/rpg.jpg
